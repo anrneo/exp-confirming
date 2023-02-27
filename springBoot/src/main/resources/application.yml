@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    url: jdbc:postgresql://localhost:5432/expo_confirm
+    username: postgres
+    password: 123456
+
+server:
+  port : 8081

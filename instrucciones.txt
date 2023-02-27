@@ -1,0 +1,13 @@
+pasos de configuaracion:
+
+1. crear DB desde el archivo TiendasAdmin.sql
+2. configurar parametros de DB como usuario y password en springBoot\src\main\resources\application.yml (lineas 6-8)
+3. iniciar proyecto backend en carpeta springBoot con Visual Code o IntelliJ
+4. el backEnd queda con url http://localhost:8081
+
+5. ingreasr a carpeta react: cd react
+6. correr npm install
+7. correr npm run dev
+8. el frontEnd queda con url http://localhost:5173
+
+gracias
