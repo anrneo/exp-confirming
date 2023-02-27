@@ -10,4 +10,5 @@ pasos de configuaracion:
 7. correr npm run dev
 8. el frontEnd queda con url http://localhost:5173
 
+repositorio GitHub: https://github.com/anrneo/exp-confirming
 gracias
